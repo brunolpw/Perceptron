@@ -1,0 +1,15 @@
+C:\Bruno\csharp\Perceptron\bin\Debug\net7.0\Perceptron.exe
+C:\Bruno\csharp\Perceptron\bin\Debug\net7.0\Perceptron.deps.json
+C:\Bruno\csharp\Perceptron\bin\Debug\net7.0\Perceptron.runtimeconfig.json
+C:\Bruno\csharp\Perceptron\bin\Debug\net7.0\Perceptron.dll
+C:\Bruno\csharp\Perceptron\bin\Debug\net7.0\Perceptron.pdb
+C:\Bruno\csharp\Perceptron\obj\Debug\net7.0\Perceptron.csproj.AssemblyReference.cache
+C:\Bruno\csharp\Perceptron\obj\Debug\net7.0\Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bruno\csharp\Perceptron\obj\Debug\net7.0\Perceptron.AssemblyInfoInputs.cache
+C:\Bruno\csharp\Perceptron\obj\Debug\net7.0\Perceptron.AssemblyInfo.cs
+C:\Bruno\csharp\Perceptron\obj\Debug\net7.0\Perceptron.csproj.CoreCompileInputs.cache
+C:\Bruno\csharp\Perceptron\obj\Debug\net7.0\Perceptron.dll
+C:\Bruno\csharp\Perceptron\obj\Debug\net7.0\refint\Perceptron.dll
+C:\Bruno\csharp\Perceptron\obj\Debug\net7.0\Perceptron.pdb
+C:\Bruno\csharp\Perceptron\obj\Debug\net7.0\Perceptron.genruntimeconfig.cache
+C:\Bruno\csharp\Perceptron\obj\Debug\net7.0\ref\Perceptron.dll
